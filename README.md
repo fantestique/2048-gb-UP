@@ -1,3 +1,11 @@
+------------
+  2048 UP!
+------------
+
+Aim to adding the music option.
+FE 28.11.2015
+
+
 A gameboy port of the game 2048.
 
 ![screenshot](http://sanqui.rustedlogic.net/etc/2048-gb-title.png)
